@@ -10,6 +10,9 @@ Following features are present in the game
 - Generic Collectables Class
 - Sound Effects
 
+# Game Controls
+ Use mouse to move the plane & left click to fire
+ 
 # Requirements
 - PyGame
 - Numpy (for PyGame)
