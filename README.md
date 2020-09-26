@@ -4,7 +4,7 @@ The air plane shooting is a fullscreen based 2D game, written to practise PyGame
 # Features in Game
 Following features are present in the game
 - Generic Enemy Class
-- Randomly Selects Enemy Type
+- Randomly Selects Enemy Type (2 Currently available)
 - Adding More Enemy is very easy
 - Randomly selected Backgrounds
 - Generic Collectables Class
