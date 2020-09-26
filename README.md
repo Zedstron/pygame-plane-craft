@@ -30,3 +30,11 @@ rest of the filenames are self explanatory, **GameObjects** file is responsible 
 - Smoothning the Game flow
 - Adding Difficulty Levels
 - Game Start Screen
+
+# Resources
+Game assets have been taken from the following websites
+- https://mobilegamegraphics.com/product/pixelantasy-free-pixel-art/ (Enemies Pack)
+- https://www.gameart2d.com/free-plane-sprite.html (Plane)
+- https://www.moddb.com/games/archer-alec/images/game-over-score (Game Over Screen)
+- https://www.zapsplat.com/ (Sound Effects)
+- https://www.artstation.com/artwork (Most of the Backgrounds)
