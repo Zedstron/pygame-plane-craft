@@ -15,12 +15,12 @@ Following features are present in the game
 - Numpy (for PyGame)
 - screeninfo (for getting screen parameters)
 
-simply install requirements.txt file by typing command * pip3 install -r requirements.txt *
+simply install requirements.txt file by typing command ** pip3 install -r requirements.txt **
 
 # Files Structure
 To simply start the game navigate to the directory and then type * py start.py *
-rest of the filenames are self explanatory, * GameObjects * file is responsible for updating entire game states of all objects e.g. Plane, enemies, coins and collisions however if you are having trouble executing code open issue, game may contain bugs feel free to debug the game and solve the bugs
-* start.py * only contains game loop and keyboard & mouse events
+rest of the filenames are self explanatory, ** GameObjects ** file is responsible for updating entire game states of all objects e.g. Plane, enemies, coins and collisions however if you are having trouble executing code open issue, game may contain bugs feel free to debug the game and solve the bugs
+** start.py ** only contains game loop and keyboard & mouse events
 
 # Todo
 - Adding Animations
