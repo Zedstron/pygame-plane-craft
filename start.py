@@ -26,7 +26,7 @@ def ToggleFullscreen():
 
     pygame.mouse.set_cursor(*cursor)
     
-    return screen
+    return (w, h)
 
 if __name__ == '__main__':
     SW, SH = 0, 0
@@ -55,8 +55,9 @@ if __name__ == '__main__':
         game_session.DrawScore()
 
         for e in pygame.event.get():
-            if e.type is KEYDOWN:
-                if e.key == K_ESCAPE:
+            if e.type == KEYDOWN:
+                print(e.key)
+                if e.key == K_ESCAPE or pygame.QUIT:
                     _quit = True
                 elif e.key == K_n and isGameOver:
                     _quit = True
